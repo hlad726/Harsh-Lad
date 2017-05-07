@@ -1,0 +1,13 @@
+Step 1:	Open "main.py" file.
+
+Step 2: If you want to see all the recognizing steps than write "showSteps = True" otherwise set its value "showSteps = False"
+	than press "F5" or select "Run Module" form "Run" menu.
+	
+	And if you want to try different image than you have to just chage the name of the image.
+	imgOriginalScene  = cv2.imread("20.jpeg") change 20.jpeg to other image name.
+
+
+Note::
+
+	I highlited my innovative part of my code by comment line"######################  My Innovative Part Start  ######################" 
+	in the code files. 
